@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript_Projects
-For practice purpose and understanding HTML , CSS and JavaScript
+For practice purpose and understanding HTML and CSS 
